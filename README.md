@@ -18,7 +18,7 @@ As you know, it's important to gain an understanding of new datasets before divi
 - Is time represented with am/pm or using 24 hour values in each of the columns that include time?
 - What values are there in the sumdgroup column? Are there any that are not of interest for this project?
 - What are the minimum and maximum values for all the latitude and longitude columns? Do these ranges make sense, or is there anything surprising?
--What is the range of values for trip duration and trip distance? Do these values make sense? Explore values that might seem questionable.
+- What is the range of values for trip duration and trip distance? Do these values make sense? Explore values that might seem questionable.
 - Check out how the values for the company name column in the scooters table compare to those of the trips table. What do you notice?
 
 Once you've gotten an understanding of what is contained in the available tables, start with addressing these questions:
