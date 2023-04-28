@@ -35,6 +35,8 @@ Are the scooter companies in compliance with the second and third part of this r
 Deliverables:
 At the conclusion of this project, your group should deliver a presentation which addresses the following points:
 * Are scooter companies in compliance with the required data cleaning?
+***finding data that is not compliance with data cleaning question 2 
+--
 * What are typical usage patterns for scooters in terms of time, location, and trip duration?
 * Does it appear that scooters are used as "last mile" transportation from public transit hubs to work or school?
 * What are your recommendations for total number of scooters for the city overall and density of scooters by zip code?
