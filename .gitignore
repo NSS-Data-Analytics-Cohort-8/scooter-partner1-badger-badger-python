@@ -9,6 +9,9 @@ __pycache__/
 #Data 
 data/
 
+#maps
+maps/
+
 # Distribution / packaging
 .Python
 build/
